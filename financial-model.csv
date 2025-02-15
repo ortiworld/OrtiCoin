@@ -1,0 +1,24 @@
+Category,Item,Q1 2025,Q2 2025,Q3 2025,Q4 2025,2026 Total,Notes
+Initial Investment,RSA Investment,300000,200000,0,0,0,Two tranches of investment
+Revenue,Community Subscriptions,0,5000,15000,30000,200000,Growing user base
+Revenue,Premium Features,0,2000,8000,20000,150000,Premium feature adoption
+Revenue,Partnership Revenue,0,0,5000,15000,100000,Strategic partnerships
+Total Revenue,Sum,0,7000,28000,65000,450000,
+Operating Costs,Development Team,45000,45000,50000,50000,220000,3-4 developers
+Operating Costs,Product Management,15000,15000,20000,20000,85000,Product leadership
+Operating Costs,Marketing,10000,15000,20000,25000,100000,Growth marketing
+Operating Costs,Infrastructure,3000,4000,5000,6000,30000,AWS/Server costs
+Operating Costs,Legal & Admin,5000,5000,5000,5000,24000,Basic services
+Operating Costs,Tools & Software,2000,2000,3000,3000,15000,Development tools
+Total Costs,Sum,80000,86000,103000,109000,474000,
+Cash Flow,Net,(80000),1000,(75000),(44000),(24000),Before next investment
+Runway (Months),Remaining,15,12,9,6,,Based on burn rate
+KPIs,Active Users,0,100,500,2000,10000,Target growth
+KPIs,Conversion Rate %,0,2,3,5,8,Paid conversion
+KPIs,CAC ($),0,200,150,100,80,Customer acquisition
+KPIs,LTV ($),0,300,400,500,600,Lifetime value
+Milestones,Product,MVP Launch,Beta Release,V1 Release,V2 Release,Scale,Development stages
+Milestones,Community,Formation,100 Active,500 Active,2000 Active,10000,Community growth
+Investment Terms,Amount Per Investor,10000,10000,10000,10000,10000,Minimum investment
+Investment Terms,Revenue Share %,1,1,1,1,1,Per 10k investment
+Investment Terms,Multiplier Cap,2x,2x,2x,2x,2x,Maximum return
